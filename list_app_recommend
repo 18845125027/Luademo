@@ -1,0 +1,21 @@
+{
+    "是否显示": true, 
+    "推荐列表": [
+        {
+            "appId": "demo", 
+            "应用名称": "轻应用示例", 
+            "应用描述": "官方轻应用示例", 
+            "应用分类": "演示", 
+            "添加人数": "2567", 
+            "应用图标地址": "http://mp.weiweixiao.net/Uploads/dsQezoU26BGAAAAWPwAVGQ/903/hvTRxuC86BGAAAAWPg36Gg.png"
+        }, 
+        {
+            "appId": "demo", 
+            "应用名称": "轻应用示例2", 
+            "应用描述": "官方轻应用示例", 
+            "应用分类": "演示", 
+            "添加人数": "2567", 
+            "应用图标地址": "http://mp.weiweixiao.net/Uploads/dsQezoU26BGAAAAWPwAVGQ/903/hvTRxuC86BGAAAAWPg36Gg.png"
+        }
+    ]
+}
